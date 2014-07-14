@@ -1,0 +1,13 @@
+1. Create category (name, priority)
+2. Remove category
+3. Edit category
+
+4. Create task (name, estimation)
+5. Edit task name
+6. Remove task
+7. Complete task
+8. Start task
+9. Pause task (start break)
+10. Stop work (you stop counting the passing time as a break)
+
+11. Update timer settings (pomodoro, short break, long break)
