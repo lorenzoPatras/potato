@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Potato.iml" filepath="$PROJECT_DIR$/Potato.iml" />
       <module fileurl="file://$PROJECT_DIR$/portable/portable.iml" filepath="$PROJECT_DIR$/portable/portable.iml" />
-      <module fileurl="file://$PROJECT_DIR$/potato/potato.iml" filepath="$PROJECT_DIR$/potato/potato.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/potato.iml" filepath="$PROJECT_DIR$/android/potato.iml" />
     </modules>
   </component>
 </project>
